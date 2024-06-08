@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/rana.anhar/source/repo/quickstart/src/WebClient
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/rana.anhar/source/repo/quickstart/src/WebClient/Pages/CallApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsbEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/rana.anhar/source/repo/quickstart/src/WebClient/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

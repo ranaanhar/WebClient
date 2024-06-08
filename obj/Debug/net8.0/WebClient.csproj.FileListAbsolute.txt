@@ -38,3 +38,4 @@
 /home/rana.anhar/source/repo/quickstart/src/WebClient/obj/Debug/net8.0/WebClient.pdb
 /home/rana.anhar/source/repo/quickstart/src/WebClient/obj/Debug/net8.0/WebClient.genruntimeconfig.cache
 /home/rana.anhar/source/repo/quickstart/src/WebClient/obj/Debug/net8.0/ref/WebClient.dll
+/home/rana.anhar/source/repo/quickstart/src/WebClient/obj/Debug/net8.0/WebClient.sourcelink.json
